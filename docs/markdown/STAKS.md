@@ -18,7 +18,7 @@
 > BACK-END API
 
 - Python
-- Django? FastAPI? Flask?
+- FastAPI
 
 > Neon | Supabase
 
